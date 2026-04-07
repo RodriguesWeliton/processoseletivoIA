@@ -22,8 +22,8 @@ def convert_to_tflite(keras_model_path, tflite_model_path):
 
 
 def main():
-    keras_model_path = "mnist_cnn.h5"
-    tflite_model_path = "mnist_cnn.tflite"
+    keras_model_path = "model.h5"
+    tflite_model_path = "model.tflite"
     convert_to_tflite(keras_model_path, tflite_model_path)
 
 

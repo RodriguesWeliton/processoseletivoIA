@@ -47,8 +47,8 @@ def main():
     test_loss, test_accuracy = model.evaluate(x_test, y_test, verbose=2)
     print(f"Test accuracy: {test_accuracy:.4f}")
 
-    model.save("mnist_cnn.h5")
-    print("Saved Keras model to mnist_cnn.h5")
+    model.save("model.h5")
+    print("Saved Keras model to model.h5")
 
 
 if __name__ == "__main__":
