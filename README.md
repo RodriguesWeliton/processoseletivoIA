@@ -1,12 +1,4 @@
-﻿# Relatório do Candidato
-
-O arquivo `README.md` é o relatório final do desafio.
-
-Preencha todas as seções de forma clara e objetiva.
-
-> 💡 Dica: não é necessário um relatório extenso. O mais importante é demonstrar clareza nas decisões técnicas.
-
-## 👤 Identificação
+﻿# Relatório
 
 Nome Completo: Weliton Rodrigues
 
